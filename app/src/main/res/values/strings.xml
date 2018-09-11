@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LacapMarianneLab2</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="image">FortSantiago</string>
+    <string name="title">FORT SANTIAGO</string>
+    <string name="location">Location: Gen Luna St. Intramuros, Manila, Luzon 1002 Philippines</string>
+    <string name="Distance">Distance from UST: 3.8 kilometers</string>
+    <string name="button1">BACK</string>
+    <string name="button2">NEXT</string>
+</resources>
